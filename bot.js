@@ -276,4 +276,4 @@ ${prefix}queue ⇏ لمعرفة قآئمة التشغيل
  
  
  
-client.login("NTIzODI3NDEwODAyNTczMzI0.DwK95A.OyYBvLQazf7BS4PdvmyaX8Ac69E");
+client.login("NTIzODI3NDEwODAyNTczMzI0.DwK-PQ.aIfk1xb_XScJacFK_8j3sl-gVX0");
